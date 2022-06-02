@@ -4,7 +4,6 @@
 - 📚 Currently learning microservices and it's patterns
 - ⛹ Playing basketball
 - 📷 Loving photography (Cannon 4000d)
-- 
 
 ### 💻 Skills
 <div style="display:flex">
