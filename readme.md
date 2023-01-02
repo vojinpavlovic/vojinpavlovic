@@ -7,7 +7,9 @@
 
 ### 💻 Skills
 <div style="display:flex">
-  <code>Javascript</code> 
+  <code>Javascript</code>
+  <code>Typescript</code>
+  <code>AWS</code>
   <code>Lua</code>
   <code>React.js</code> 
   <code>Node.js</code> 
