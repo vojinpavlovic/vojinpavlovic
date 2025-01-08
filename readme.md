@@ -1,24 +1,20 @@
-## 🖐 Welcome to my profile 🖐
-
-### 🕴 What I do
-- 📚 Currently learning microservices and it's patterns
-- ⛹ Playing basketball
-- 📷 Loving photography (Cannon 4000d)
-
-### 💻 Skills
+### 💬 Programming Languages
 <div style="display:flex">
-  <code>Javascript</code>
-  <code>Typescript</code>
-  <code>AWS</code>
+  <code>Javascript/Typescript</code>
   <code>Lua</code>
-  <code>React.js</code> 
-  <code>Node.js</code> 
-  <code>SQL</code> 
-  <code>Tailwind</code>
+  <code>C#</code>
+</div>
+
+### 💻 Technologies
+<div style="display:flex">
+  <code>Node.js</code>
+  <code>RDBMS</code>
+  <code>Docker</code>
+  <code>RabbitMQ</code>
+  <code>Svelte</code>
+  <code>React.js</code>
   <code>Bootstrap</code>
-  <code>Html</code>
-  <code>CSS</code>
-  <code>Scss</code>
+  <code>Tailwind</code>
   <code>Figma</code>
   <code>Git</code>
 </div>
